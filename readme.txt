@@ -9,7 +9,7 @@ Reference
 	https://www.youtube.com/watch?v=Y9XZQO1n_7c
 - configure the default text editor 
 	https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
-
+	git config --global core.editor vim.tiny
 
 Working from local to remote
 ============================
