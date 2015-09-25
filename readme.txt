@@ -11,6 +11,17 @@ Reference
 	https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 	git config --global core.editor vim.tiny
 
+- git clone url ()
+	git clone https://github.com/wballum/dynamic-calendar.git
+	
+- Why is Git always asking for my password?
+	https://help.github.com/articles/why-is-git-always-asking-for-my-password/
+	
+	Caching your GitHub password in Git
+	https://help.github.com/articles/caching-your-github-password-in-git/#platform-linux
+	git config --global credential.helper cache
+	git config --global credential.helper 'cache --timeout=3600'
+
 Working from local to remote
 ============================
 - Make sure you are using the most current version
