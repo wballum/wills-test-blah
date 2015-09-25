@@ -1,11 +1,9 @@
+Learing how to use git
+======================
 
-git config --global user.name "wballum"
-git config --global user.email "wballum@gmail.com"
-git config --global color.ui auto
-
+Ref
 https://www.youtube.com/watch?v=mMsWq3rS6Po
 https://www.youtube.com/watch?v=Y9XZQO1n_7c
-
 
 
 Working from local to remote
