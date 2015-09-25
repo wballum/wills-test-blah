@@ -1,9 +1,12 @@
-Learing how to use git
-======================
+Learning how to use git and github
+==================================
 
-Ref
-https://www.youtube.com/watch?v=mMsWq3rS6Po
-https://www.youtube.com/watch?v=Y9XZQO1n_7c
+Reference
+=========
+- How to create your first repository and upload it to Github
+	https://www.youtube.com/watch?v=mMsWq3rS6Po
+- Learn Git in 20 Minutes
+	https://www.youtube.com/watch?v=Y9XZQO1n_7c
 
 
 Working from local to remote
@@ -46,4 +49,3 @@ git remote -v
 	john@debian:~/git-test/wills-test-blah$ git remote -v
 	origin	https://github.com/wballum/wills-test-blah.git (fetch)
 	origin	https://github.com/wballum/wills-test-blah.git (push)
-
