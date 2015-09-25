@@ -7,6 +7,8 @@ Reference
 	https://www.youtube.com/watch?v=mMsWq3rS6Po
 - Learn Git in 20 Minutes
 	https://www.youtube.com/watch?v=Y9XZQO1n_7c
+- configure the default text editor 
+	https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 
 Working from local to remote
